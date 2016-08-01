@@ -2,8 +2,8 @@
 
 Free Wordpress Theme inspired by Google Material Design
 
-This is only the beta version, if you like to be a beta-tester please download and install the theme and write your reviews at luca@reset-lab.it
-Thanks for the support!
+<strong>This is only the beta version, if you like to be a beta-tester please download and install the theme and write your reviews at luca@reset-lab.it
+Thanks for the support!</strong>
 
 * Project: [github.com/lucavercellio/materialab](https://github.com/lucavercellio/materialab)
 * Website: [MateriaLab on LucaVercellio.com](http://lucavercellio.com/materialab)
