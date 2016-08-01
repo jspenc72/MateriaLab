@@ -1,15 +1,18 @@
-# MateriaLab Theme
+# MateriaLab Theme - Beta Version
 
 Free Wordpress Theme inspired by Google Material Design
 
+This is only the beta version, if you like to be a beta-tester please download and install the theme and write your reviews at luca@reset-lab.it
+Thanks for the support!
+
 * Project: [github.com/lucavercellio/materialab](https://github.com/lucavercellio/materialab)
-* Website: [MateriaLab on LucaVercellio.com](http://materialab.lucavercellio.com)
+* Website: [MateriaLab on LucaVercellio.com](http://lucavercellio.com/materialab)
 * Twitter: [@lucavercellio](http://twitter.com/lucavercellio)
 * Author : [Luca Vercellio](http://lucavercellio.com)
 
 ## Getting Started
 
-Download the latest version from [materialab.lucavercellio.com](http://materialab.lucavercellio.com)
+Download the latest version from [lucavercellio.com/materialab](http://lucavercellio.com/materialab)
 
 
 ## Features
