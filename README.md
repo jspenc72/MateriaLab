@@ -13,6 +13,7 @@ Thanks for the support!
 ## Getting Started
 
 Download the latest version from [lucavercellio.com/materialab](http://lucavercellio.com/materialab)
+pass: mbetatester
 
 
 ## Features
