@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="71px" height="71px" viewBox="0 0 71 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <title>button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-90.000000, -146.000000)">
+            <g id="header" transform="translate(-2.000000, 0.000000)">
+                <g id="button" transform="translate(92.000000, 146.000000)">
+                    <circle id="Oval-5" fill="#495AE2" cx="35.5" cy="35.5" r="35.5"></circle>
+                    <path d="M37.3908909,26.5 L37.3908909,33.906006 L44.4248248,33.906006 L44.4248248,36.7762763 L37.3908909,36.7762763 L37.3908909,44.2 L34.2902903,44.2 L34.2902903,36.7762763 L27.2917918,36.7762763 L27.2917918,33.906006 L34.2902903,33.906006 L34.2902903,26.5 L37.3908909,26.5 Z" id="+" fill-opacity="0.896399456" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
